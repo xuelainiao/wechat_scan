@@ -2,7 +2,6 @@ import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:mobile_scanner/mobile_scanner.dart';
-
 import 'package:url_launcher/url_launcher.dart';
 import 'package:qrscan/qrscan.dart' as scanner;
 import 'package:vibration/vibration.dart';

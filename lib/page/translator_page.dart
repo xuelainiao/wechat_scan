@@ -8,7 +8,6 @@ import 'package:get/get.dart';
 import 'package:http/http.dart' as http;
 import 'package:camera/camera.dart';
 import 'package:flutter/material.dart';
-
 import 'package:wechat_assets_picker/wechat_assets_picker.dart';
 // ignore: library_prefixes
 import 'package:image/image.dart' as Img;
